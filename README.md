@@ -18,7 +18,19 @@ A dynamic weather dashboard using weather APIs that provides real-time weather d
 
 ### APIs USED
 - Current weather and Forecast API from OpenWeatherMap 
-- Air pollution API from OpenWeatherMap 
+- Air pollution API from OpenWeatherMap
+
+### Before script.js and API integration (FrontEnd by HTML, CSS)
+![image](https://github.com/user-attachments/assets/3fb00340-37a1-4dfb-891e-67b89940d596)
+
+### After integrating script.js and API 
+- live weather forecasting of current location
+![image](https://github.com/user-attachments/assets/faa5cfe0-45a2-4997-ba63-144244ac8815)
+
+- weather forecast for location after searching
+![image](https://github.com/user-attachments/assets/8ea92f55-941c-41eb-8768-d1aca196d287)
+
+
 
 
 
